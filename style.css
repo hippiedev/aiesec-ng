@@ -192,32 +192,32 @@ Version: 1.0
         display: none;
     }
     section.header_image_about .myslides:nth-child(1){
-        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('http://localhost/wordpress/wp-content/uploads/2020/09/IMG_38421-scaled.jpg');  
+        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://hippiedev.github.io/wordpress/wp-content/uploads/2020/09/IMG_38421-scaled.jpg');  
         background-size: cover;
         width: 100%;
         height: 100%;;
     }
      section.header_image_about .myslides:nth-child(1){
-        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('http://localhost/wordpress/wp-content/uploads/2020/09/IMG_38421-scaled.jpg');  
+        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://hippiedev.github.io/wordpress/wp-content/uploads/2020/09/IMG_38421-scaled.jpg');  
         background-size: cover;
         width: 100%;
         height: 100%;;
     }
     
     .myslides:nth-child(1){
-        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('http://localhost/wordpress/wp-content/uploads/2020/09/DSC_7623.jpg');  
+        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://hippiedev.github.io/wordpress/wp-content/uploads/2020/09/DSC_7623.jpg');  
         background-size: cover;
         width: 100%;
         height: 100%;;
     }
     .myslides:nth-child(2){
-        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('http://localhost/wordpress/wp-content/uploads/2020/09/people-3137672_1920.jpg');  
+        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://hippiedev.github.io/wordpress/wp-content/uploads/2020/09/people-3137672_1920.jpg');  
         background-size: cover;  
         width: 100%;
         height: 100%;
     }
     .myslides:nth-child(3){
-        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('http://localhost/wordpress/wp-content/uploads/2020/09/african-child-1381553_1280-1.jpg');  
+        background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://hippiedev.github.io/wordpress/wp-content/uploads/2020/09/african-child-1381553_1280-1.jpg');  
         background-size: cover;
         width: 100%;
         height: 100%;
@@ -364,7 +364,7 @@ button.product:hover::after {
         background-size: cover;
         position: relative;
         height: 380px;
-        background: linear-gradient(rgba(255,255,255,0.8),rgba(255,255,255,0.8)), url('http://localhost/wordpress/wp-content/uploads/2020/09/youth_image.jpeg');
+        background: linear-gradient(rgba(255,255,255,0.8),rgba(255,255,255,0.8)), url('https://hippiedev.github.io/wordpress/wp-content/uploads/2020/09/youth_image.jpeg');
         background-size: cover;
     }
     section.value_prop .value_head{
@@ -400,7 +400,7 @@ button.product:hover::after {
         background: #037Ef3;
         width: 100%;
         position: relative;
-        background: linear-gradient(rgba(3,126,243,0.8),rgba(3,126,243,0.8)), url('http://localhost/wordpress/wp-content/uploads/2020/09/taylor-grote-UiVe5QvOhao-unsplash5_edited2-scaled.jpg');
+        background: linear-gradient(rgba(3,126,243,0.8),rgba(3,126,243,0.8)), url('https://hippiedev.github.io/wordpress/wp-content/uploads/2020/09/taylor-grote-UiVe5QvOhao-unsplash5_edited2-scaled.jpg');
         background-size: cover;
     }
     div.employers .value_head2{
