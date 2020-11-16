@@ -959,7 +959,7 @@ div.hd-search #s{
     section.value_prop div.value_image{
         height: 346.5px;
         float: right;
-        background-image: url('https://hippiedev.github.io/aiesec-ng/wp-content/uploads/2020/09/youth_image.jpeg');
+        background-image: url('http://localhost/wordpress/wp-content/uploads/2020/09/youth_image.jpeg');
         width: 40%;
         background-position-y: -150px;
         background-size: cover;
@@ -1002,7 +1002,7 @@ div.hd-search #s{
         width: 40%;
         height: 346.5px;
         float: left;
-        background: url('https://hippiedev.github.io/aiesec-ng/wp-content/uploads/2020/09/taylor-grote-UiVe5QvOhao-unsplash5_edited2-scaled.jpg');
+        background: url('http://localhost/wordpress/wp-content/uploads/2020/09/taylor-grote-UiVe5QvOhao-unsplash5_edited2-scaled.jpg');
         background-size: cover;
         position: relative;
     }
