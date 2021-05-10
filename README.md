@@ -1,4 +1,4 @@
-## Official website of AIESEC Nigeria
+## Unofficial website of AIESEC Nigeria
 
 Check it out [here](https://hippiedev.github.io/aiesec-ng/)
 
